@@ -1,6 +1,6 @@
 # Hello there,  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anitha Balachandran
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+Github+Profile;Feel+Free+to+explore!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+Github+Profile;Feel+free+to+explore!;)](https://git.io/typing-svg)
 
 <div id="badges">
     <p align="left">
