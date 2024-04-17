@@ -14,7 +14,7 @@
 ## A little more about me...  
 -I am pursuing an MS in Data Analytics with a specialization in data science at San Jose State University. 
 
--With 5 years of professional experience in software engineering and data analytics, I am currently learning courses such as Andrew Ng's Machine Learning and Deep Learning Specialization.These courses are influential in enhancing my theoretical understanding of machine learning, deep learning, and data science.
+-With 5 years of professional experience in software engineering, I am currently learning courses such as Andrew Ng's Machine Learning and Deep Learning Specialization.
 
 ## 🌱 Always Learning
 -Passionate about continuous learning and personal growth, I believe in taking one step at a time. Constantly evolving and still in the learning phase, my GitHub repo reflects my journey of exploration and growth. Check it out for more insights!
