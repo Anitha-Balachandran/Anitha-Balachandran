@@ -12,12 +12,12 @@
 
 
 ## A little more about me...  
--I am currently pursuing MS in Data Analytics with a specialization in data science at San Jose State University. 
+- I have over five years of experience in software development and data analysis. Currently, I am advancing my education with a Master's degree in Data Analytics, specializing in Data Science, at San Jose State University.
 
--With 5 years of professional experience in software engineering, I am currently learning courses such as Andrew Ng's Machine Learning and Deep Learning Specialization.
+- I've held key roles at Cognizant Technology Solutions, leading projects in advanced software development and Business Analytics that delivered significant results. Driven by a deep passion for data and AI, I am committed to developing innovative solutions that address real-world challenges and enhance both business and technological outcomes.
 
 ## 🌱 Always Learning
--Passionate about continuous learning and personal growth, I believe in taking one step at a time. Constantly evolving and still in the learning phase, my GitHub repo reflects my journey of exploration and growth. Check it out for more insights!
+-I am passionate about continuous learning and personal growth, constantly evolving and learning every day. My GitHub repository reflects my journey of exploration and growth. For more insights, check it out!
 
 -I'm actively building my portfolio, showcasing my progression from foundational data analytics to diverse machine learning projects. Stay tuned for more updates!
 
