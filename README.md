@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=28A5A9&size=30&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+Github+Profile;Feel+free+to+explore!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=3979BE&size=30&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+Github+Profile;Feel+free+to+explore!" alt="Typing SVG">
   </a>
 </div>
 
