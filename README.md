@@ -14,7 +14,7 @@
 ## A little more about me...  
 - I have over five years of experience in software development and data analysis. Currently, I am advancing my education with a Master's degree in Data Analytics, specializing in Data Science, at San Jose State University.
 
-- I've held key roles at Cognizant Technology Solutions, leading projects in advanced software development and Business Analytics that delivered significant results. Driven by a deep passion for data and AI, I am committed to developing innovative solutions that address real-world challenges and enhance both business and technological outcomes.
+- I've held key roles at Cognizant Technology Solutions, leading projects in advanced software development and Business Analytics that delivered significant results. This professional experience has fueled my drive to further explore and design innovative solutions in data and AI, aiming to tackle real-world challenges and expand my capabilities in these evolving fields.
 
 ## 🌱 Always Learning
 -I am passionate about continuous learning and personal growth, constantly evolving and learning every day. My GitHub repository reflects my journey of exploration and growth. For more insights, check it out!
