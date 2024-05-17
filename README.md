@@ -3,7 +3,8 @@
 
 <div align="center">
 
-# Hello there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anitha Balachandran, an aspiring ML Engineer with a solid background in Software Engineering.
+# Hello there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anitha Balachandran, 
+<p> An aspiring ML Engineer with a solid background in Software Engineering.</p>
 </div>
 
 
