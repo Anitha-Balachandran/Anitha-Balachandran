@@ -1,5 +1,7 @@
 
 ![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV2OG9pMWVxZm9jYnhiMzBra3Q0bGU5NWlpdjgxeWJvdzRxY21zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV2OG9pMWVxZm9jYnhiMzBra3Q0bGU5NWlpdjgxeWJvdzRxY21zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" alt="MasterHead" width="800" height="400">
+
 
 # Hello there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anitha Balachandran, an aspiring ML Engineer with a solid background in Software Engineering.
 
