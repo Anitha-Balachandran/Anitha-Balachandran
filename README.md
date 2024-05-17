@@ -10,14 +10,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+Github+Profile;Feel+free+to+explore!;)](https://git.io/typing-svg)
 
-<div id="badges">
-    <p align="left">
-        Connect with me:
-        <a href="https://www.linkedin.com/in/anitha-balachandran/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-        <a href="writetoanithalidiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+<div id="badges" style="text-align: left;">
+    <p style="font-size: 18px; margin: 0;">
+        Reach me:
+        <a href="https://www.linkedin.com/in/anitha-balachandran/" style="vertical-align: middle;">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+        </a>
+        <a href="mailto:writetoanithalidiya@gmail.com" style="vertical-align: middle;">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
         </a>
     </p>
 </div>
+
 
 
 ## A little more about me...  
