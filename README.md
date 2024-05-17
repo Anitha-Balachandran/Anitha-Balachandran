@@ -1,4 +1,4 @@
-# Hello there,  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anitha Balachandran
+# Hello there,  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Anitha Balachandran, an aspiring AI/ML Engineer with a solid background in software engineering.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+Github+Profile;Feel+free+to+explore!;)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 
 ## A little more about me...  
--I am pursuing an MS in Data Analytics with a specialization in data science at San Jose State University. 
+-I am currently pursuing MS in Data Analytics with a specialization in data science at San Jose State University. 
 
 -With 5 years of professional experience in software engineering, I am currently learning courses such as Andrew Ng's Machine Learning and Deep Learning Specialization.
 
