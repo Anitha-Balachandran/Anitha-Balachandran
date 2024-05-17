@@ -22,10 +22,10 @@
     </p>
 </div>
 
-📍 ** California, US**  
+📍 **California, US**  
 📧 **Email:** [anitha.balachandran@sjsu.edu](mailto:anitha.balachandran@sjsu.edu)  
-🔗 **LinkedIn:** [Anitha Balachandran]([https://linkedin.com/in/sajals](https://www.linkedin.com/in/anitha-balachandran/))  
-👨‍💻 **GitHub:** [Anitha-Balachandran]([https://github.com/sajal2692](https://github.com/Anitha-Balachandran))
+🔗 **LinkedIn:** [Anitha Balachandran](https://www.linkedin.com/in/anitha-balachandran/)  
+👨‍💻 **GitHub:** [Anitha-Balachandran](https://github.com/Anitha-Balachandran)
 
 
 
