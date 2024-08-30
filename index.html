@@ -1,1 +1,150 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Portfolio</title>
+
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(to right, #ff7e5f, #feb47b);
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+    }
+
+    .sidebar {
+      background-color: #333;
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+      text-align: center;
+      width: 350px;
+    }
+
+    .avatar-box img {
+      border-radius: 50%;
+      border: 5px solid #fff;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      margin-bottom: 20px;
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+    }
+
+    .name {
+      font-size: 2em;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    .title {
+      font-size: 1.2em;
+      color: #ffeb3b;
+      margin-bottom: 20px;
+    }
+
+    .contact-info {
+      margin-top: 20px;
+      text-align: left;
+    }
+
+    .contact-item {
+      margin-bottom: 15px;
+      display: flex;
+      align-items: center;
+    }
+
+    .contact-item ion-icon {
+      color: #ffeb3b;
+      font-size: 1.5em;
+      margin-right: 10px;
+    }
+
+    .contact-link {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .contact-link:hover {
+      text-decoration: underline;
+    }
+
+    .social-links {
+      margin-top: 30px;
+    }
+
+    .social-link {
+      color: #fff;
+      font-size: 2em;
+      margin-right: 15px;
+      transition: color 0.3s ease;
+    }
+
+    .social-link:hover {
+      color: #ffeb3b;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="sidebar">
+
+    <div class="avatar-box">
+      <img src="assets/images/ani.jpeg" alt="Profile Photo">
+    </div>
+
+    <div class="info-content">
+      <h1 class="name">Your Name</h1>
+      <p class="title">Your Role</p>
+    </div>
+
+    <div class="contact-info">
+      <div class="contact-item">
+        <ion-icon name="mail-outline"></ion-icon>
+        <span>Email: <a href="mailto:youremail@example.com" class="contact-link">youremail@example.com</a></span>
+      </div>
+      <div class="contact-item">
+        <ion-icon name="phone-portrait-outline"></ion-icon>
+        <span>Phone: <a href="tel:+1234567890" class="contact-link">+1 (234) 567-890</a></span>
+      </div>
+      <div class="contact-item">
+        <ion-icon name="calendar-outline"></ion-icon>
+        <span>Birthday: <time datetime="YYYY-MM-DD">January 1, 1990</time></span>
+      </div>
+      <div class="contact-item">
+        <ion-icon name="location-outline"></ion-icon>
+        <span>Location: San Jose, California, USA</span>
+      </div>
+    </div>
+
+    <div class="social-links">
+      <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-linkedin"></ion-icon></a>
+      <a href="https://github.com/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-github"></ion-icon></a>
+    </div>
+
+  </div>
+
+  <!-- Ionicons -->
+  <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
