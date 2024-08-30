@@ -15,167 +15,179 @@
     body {
       font-family: 'Poppins', sans-serif;
       background: #f0f4f8; /* Light background color */
-      color: #333;
       margin: 0;
     }
 
-    .sidebar {
-      background-color: #fff;
-      padding: 30px;
-      border-radius: 20px;
-      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-      text-align: center;
-      position: fixed;
-      top: 20px;
-      left: 20px;
-      width: 250px;
-      height: calc(100vh - 40px); /* Full viewport height minus padding */
+    .container {
+      display: flex;
+      flex-direction: row;
+      padding: 20px;
     }
 
-    .avatar-box img {
+    .profile-card {
+      width: 300px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin-right: 20px;
+      position: relative;
+    }
+
+    .profile-card .avatar-box {
+      display: flex;
+      justify-content: center;
+    }
+
+    .profile-card .avatar-box img {
       border-radius: 50%;
       border: 5px solid #f0f4f8;
       width: 120px;
       height: 120px;
       object-fit: cover;
-      margin-bottom: 20px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
 
-    .name {
+    .profile-card .info-content {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .profile-card .name {
       font-size: 1.8em;
       font-weight: 700;
       margin-bottom: 10px;
     }
 
-    .title {
+    .profile-card .title {
       font-size: 1.1em;
       color: #007bff;
       margin-bottom: 20px;
     }
 
-    .contact-info {
+    .profile-card hr {
+      border: 0;
+      height: 1px;
+      background: #ddd;
+      margin: 20px 0;
+    }
+
+    .profile-card .contact-info {
       text-align: left;
     }
 
-    .contact-item {
+    .profile-card .contact-item {
       margin-bottom: 15px;
       display: flex;
       align-items: center;
     }
 
-    .contact-item ion-icon {
+    .profile-card .contact-item ion-icon {
       color: #007bff;
       font-size: 1.3em;
       margin-right: 10px;
     }
 
-    .contact-link {
+    .profile-card .contact-link {
       color: #007bff;
       text-decoration: none;
     }
 
-    .contact-link:hover {
+    .profile-card .contact-link:hover {
       text-decoration: underline;
     }
 
-    .navbar {
-      margin-bottom: 30px;
+    .profile-card .social-links {
+      text-align: center;
+      margin-top: 20px;
     }
 
-    .navbar-nav .nav-link {
-      color: #333 !important;
-      font-size: 1.1em;
+    .profile-card .social-link {
+      color: #007bff;
+      font-size: 1.5em;
+      margin: 0 10px;
+      transition: color 0.3s ease;
     }
 
-    .navbar-nav .nav-link:hover {
-      color: #007bff !important;
+    .profile-card .social-link:hover {
+      color: #0056b3;
     }
 
-    .container {
-      margin-left: 300px; /* Adjusted margin to make space for sidebar */
+    .content {
+      flex: 1;
+      max-width: calc(100% - 340px); /* Adjust based on profile card width */
+    }
+
+    .section {
+      background: #fff;
       padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .section h2 {
+      margin-bottom: 20px;
     }
   </style>
 </head>
 
 <body>
 
-  <!-- Navigation Bar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Your Portfolio</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link" href="#about">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#resume">Resume</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#portfolio">Portfolio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
-        </li>
-      </ul>
-    </div>
-  </nav>
-
-  <!-- Sidebar -->
-  <div class="sidebar">
-    <div class="avatar-box">
-      <img src="assets/images/ani.jpeg" alt="Profile Photo">
-    </div>
-    <div class="info-content">
-      <h1 class="name">Your Name</h1>
-      <p class="title">Your Role</p>
-    </div>
-    <div class="contact-info">
-      <div class="contact-item">
-        <ion-icon name="mail-outline"></ion-icon>
-        <span>Email: <a href="mailto:youremail@example.com" class="contact-link">youremail@example.com</a></span>
-      </div>
-      <div class="contact-item">
-        <ion-icon name="phone-portrait-outline"></ion-icon>
-        <span>Phone: <a href="tel:+1234567890" class="contact-link">+1 (234) 567-890</a></span>
-      </div>
-      <div class="contact-item">
-        <ion-icon name="calendar-outline"></ion-icon>
-        <span>Birthday: <time datetime="YYYY-MM-DD">January 1, 1990</time></span>
-      </div>
-      <div class="contact-item">
-        <ion-icon name="location-outline"></ion-icon>
-        <span>Location: San Jose, California, USA</span>
-      </div>
-    </div>
-    <div class="social-links">
-      <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-linkedin"></ion-icon></a>
-      <a href="https://github.com/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-github"></ion-icon></a>
-    </div>
-  </div>
-
-  <!-- Main Content -->
   <div class="container">
-    <section id="about">
-      <h2>About</h2>
-      <p>Your about section content goes here.</p>
-    </section>
-    <section id="resume">
-      <h2>Resume</h2>
-      <p>Your resume section content goes here.</p>
-    </section>
-    <section id="portfolio">
-      <h2>Portfolio</h2>
-      <p>Your portfolio section content goes here.</p>
-    </section>
-    <section id="contact">
-      <h2>Contact</h2>
-      <p>Your contact section content goes here.</p>
-    </section>
+    <!-- Profile Card -->
+    <div class="profile-card">
+      <div class="avatar-box">
+        <img src="assets/images/ani.jpeg" alt="Profile Photo">
+      </div>
+      <div class="info-content">
+        <h1 class="name">Your Name</h1>
+        <p class="title">Your Role</p>
+        <hr>
+        <div class="contact-info">
+          <div class="contact-item">
+            <ion-icon name="mail-outline"></ion-icon>
+            <span>Email: <a href="mailto:youremail@example.com" class="contact-link">youremail@example.com</a></span>
+          </div>
+          <div class="contact-item">
+            <ion-icon name="phone-portrait-outline"></ion-icon>
+            <span>Phone: <a href="tel:+1234567890" class="contact-link">+1 (234) 567-890</a></span>
+          </div>
+          <div class="contact-item">
+            <ion-icon name="calendar-outline"></ion-icon>
+            <span>Birthday: <time datetime="YYYY-MM-DD">January 1, 1990</time></span>
+          </div>
+          <div class="contact-item">
+            <ion-icon name="location-outline"></ion-icon>
+            <span>Location: San Jose, California, USA</span>
+          </div>
+        </div>
+        <div class="social-links">
+          <a href="https://www.instagram.com/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-instagram"></ion-icon></a>
+          <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-linkedin"></ion-icon></a>
+          <a href="https://github.com/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-github"></ion-icon></a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="content">
+      <div class="section" id="about">
+        <h2>About Me</h2>
+        <p>Your about me content goes here.</p>
+      </div>
+      <div class="section" id="resume">
+        <h2>Resume</h2>
+        <p>Your resume content goes here.</p>
+      </div>
+      <div class="section" id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Your portfolio content goes here.</p>
+      </div>
+      <div class="section" id="contact">
+        <h2>Contact</h2>
+        <p>Your contact content goes here.</p>
+      </div>
+    </div>
   </div>
 
   <!-- Ionicons -->
