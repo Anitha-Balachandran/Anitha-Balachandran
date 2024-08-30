@@ -1,203 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Portfolio</title>
-
-  <!-- Bootstrap CSS -->
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Custom CSS -->
-  <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-      background: #f0f4f8; /* Light background color */
-      margin: 0;
-    }
-
-    .container {
-      display: flex;
-      flex-direction: row;
-      padding: 20px;
-    }
-
-    .profile-card {
-      width: 300px;
-      background: #fff;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      margin-right: 20px;
-      position: relative;
-    }
-
-    .profile-card .avatar-box {
-      display: flex;
-      justify-content: center;
-    }
-
-    .profile-card .avatar-box img {
-      border-radius: 50%;
-      border: 5px solid #f0f4f8;
-      width: 120px;
-      height: 120px;
-      object-fit: cover;
-    }
-
-    .profile-card .info-content {
-      text-align: center;
-      margin-top: 20px;
-    }
-
-    .profile-card .name {
-      font-size: 1.8em;
-      font-weight: 700;
-      margin-bottom: 10px;
-    }
-
-    .profile-card .title {
-      font-size: 1.1em;
-      color: #007bff;
-      margin-bottom: 20px;
-    }
-
-    .profile-card hr {
-      border: 0;
-      height: 1px;
-      background: #ddd;
-      margin: 20px 0;
-    }
-
-    .profile-card .contact-info {
-      text-align: left;
-    }
-
-    .profile-card .contact-item {
-      margin-bottom: 15px;
-      display: flex;
-      align-items: center;
-    }
-
-    .profile-card .contact-item ion-icon {
-      color: #007bff;
-      font-size: 1.3em;
-      margin-right: 10px;
-    }
-
-    .profile-card .contact-link {
-      color: #007bff;
-      text-decoration: none;
-    }
-
-    .profile-card .contact-link:hover {
-      text-decoration: underline;
-    }
-
-    .profile-card .social-links {
-      text-align: center;
-      margin-top: 20px;
-    }
-
-    .profile-card .social-link {
-      color: #007bff;
-      font-size: 1.5em;
-      margin: 0 10px;
-      transition: color 0.3s ease;
-    }
-
-    .profile-card .social-link:hover {
-      color: #0056b3;
-    }
-
-    .content {
-      flex: 1;
-      max-width: calc(100% - 340px); /* Adjust based on profile card width */
-    }
-
-    .section {
-      background: #fff;
-      padding: 20px;
-      margin-bottom: 20px;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-
-    .section h2 {
-      margin-bottom: 20px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
-
 <body>
-
-  <div class="container">
-    <!-- Profile Card -->
-    <div class="profile-card">
-      <div class="avatar-box">
-        <img src="assets/images/ani.jpeg" alt="Profile Photo">
-      </div>
-      <div class="info-content">
-        <h1 class="name">Your Name</h1>
-        <p class="title">Your Role</p>
-        <hr>
-        <div class="contact-info">
-          <div class="contact-item">
-            <ion-icon name="mail-outline"></ion-icon>
-            <span>Email: <a href="mailto:youremail@example.com" class="contact-link">youremail@example.com</a></span>
-          </div>
-          <div class="contact-item">
-            <ion-icon name="phone-portrait-outline"></ion-icon>
-            <span>Phone: <a href="tel:+1234567890" class="contact-link">+1 (234) 567-890</a></span>
-          </div>
-          <div class="contact-item">
-            <ion-icon name="calendar-outline"></ion-icon>
-            <span>Birthday: <time datetime="YYYY-MM-DD">January 1, 1990</time></span>
-          </div>
-          <div class="contact-item">
-            <ion-icon name="location-outline"></ion-icon>
-            <span>Location: San Jose, California, USA</span>
-          </div>
+    <div class="container">
+        <!-- Left Side Card -->
+        <div class="left-card">
+            <img src="assets/images/profile.jpg" alt="Profile Picture" class="profile-pic">
+            <h1>Anitha Balachandran</h1>
+            <h2>Data Scientist & AI/ML Engineer</h2>
+            <hr>
+            <div class="contact-details">
+                <p>Email: anitha@example.com</p>
+                <p>Phone: +1234567890</p>
+                <p>Birthday: January 1, 1990</p>
+                <p>Location: City, Country</p>
+            </div>
+            <div class="social-media">
+                <a href="https://instagram.com" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                <a href="https://linkedin.com" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+            </div>
         </div>
-        <div class="social-links">
-          <a href="https://www.instagram.com/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-instagram"></ion-icon></a>
-          <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-linkedin"></ion-icon></a>
-          <a href="https://github.com/yourprofile" target="_blank" class="social-link"><ion-icon name="logo-github"></ion-icon></a>
+
+        <!-- Center Containers -->
+        <div class="main-content">
+            <div class="about-me">
+                <h2>About Me</h2>
+                <p>This is the section where you describe yourself.</p>
+            </div>
+
+            <div class="resume">
+                <h2>Resume</h2>
+                <p><a href="path/to/resume.pdf" download>Download my resume</a></p>
+            </div>
+
+            <div class="portfolio">
+                <h2>Portfolio</h2>
+                <p>Showcase of my work.</p>
+            </div>
+
+            <div class="contact">
+                <h2>Contact</h2>
+                <p>Contact information or form here.</p>
+            </div>
         </div>
-      </div>
     </div>
-
-    <!-- Main Content -->
-    <div class="content">
-      <div class="section" id="about">
-        <h2>About Me</h2>
-        <p>Your about me content goes here.</p>
-      </div>
-      <div class="section" id="resume">
-        <h2>Resume</h2>
-        <p>Your resume content goes here.</p>
-      </div>
-      <div class="section" id="portfolio">
-        <h2>Portfolio</h2>
-        <p>Your portfolio content goes here.</p>
-      </div>
-      <div class="section" id="contact">
-        <h2>Contact</h2>
-        <p>Your contact content goes here.</p>
-      </div>
-    </div>
-  </div>
-
-  <!-- Ionicons -->
-  <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
-  <!-- Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
 </body>
-
 </html>
