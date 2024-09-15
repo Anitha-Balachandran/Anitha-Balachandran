@@ -19,8 +19,8 @@
 📍 **California, US**  
 📧 **Email:** [writetoanithalidiya@gmail.com](mailto:writetoanithalidiya@gmail.com)  
 🔗 **LinkedIn:** [Anitha Balachandran](https://www.linkedin.com/in/anitha-balachandran/)  
-👨‍💻 **GitHub:** [Anitha-Balachandran](https://github.com/Anitha-Balachandran)
-💼 Portfolio: [Anitha's Portfolio](https://anitha-balachandran.github.io/portfolio/)
+👨‍💻 **GitHub:** [Anitha-Balachandran](https://github.com/Anitha-Balachandran)  
+💼 **Portfolio:** [Anitha's Portfolio](https://anitha-balachandran.github.io/portfolio/)
 
 
 
