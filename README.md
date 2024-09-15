@@ -17,7 +17,7 @@
 
 
 📍 **California, US**  
-📧 **Email:** [anitha.balachandran@sjsu.edu](mailto:anitha.balachandran@sjsu.edu)  
+📧 **Email:** [anitha.balachandran@sjsu.edu, writetoanithalidiya@gmail.com](mailto:anitha.balachandran@sjsu.edu)  
 🔗 **LinkedIn:** [Anitha Balachandran](https://www.linkedin.com/in/anitha-balachandran/)  
 👨‍💻 **GitHub:** [Anitha-Balachandran](https://github.com/Anitha-Balachandran)
 
