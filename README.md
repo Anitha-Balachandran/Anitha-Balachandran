@@ -1,5 +1,6 @@
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVpZTk1YjNnMmwzc2E5MDd6b2kwZXlsNHFsa2RrdGx3M3ZmNHI5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" alt="MasterHead" width="1200" height="250">
+<img src="![linkedinbanner](https://github.com/user-attachments/assets/058932e5-7223-4e02-a494-6faf54459e5d)
+" alt="MasterHead" width="1200" height="250">
 
 <div align="center">
 
