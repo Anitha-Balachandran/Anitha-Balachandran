@@ -1,6 +1,5 @@
 
-<img src="![linkedinbanner](https://github.com/user-attachments/assets/058932e5-7223-4e02-a494-6faf54459e5d)
-" alt="MasterHead" width="1200" height="250">
+<img src="https://github.com/user-attachments/assets/058932e5-7223-4e02-a494-6faf54459e5d" alt="MasterHead" width="1200" height="250">
 
 <div align="center">
 
