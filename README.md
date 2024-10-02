@@ -29,6 +29,8 @@
 
 - I've held key roles at Cognizant Technology Solutions, leading projects in advanced software development and Business Analytics that delivered significant results. This professional experience has fueled my drive to further explore and design innovative solutions in data and AI, aiming to tackle real-world challenges and expand my capabilities in these evolving fields.
 
+
+
 ## 🌱 Always Learning
 -I am passionate about continuous learning and personal growth, constantly evolving and learning every day. My GitHub repository reflects my journey of exploration and growth. For more insights, check it out!
 
@@ -61,5 +63,7 @@
     ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
       [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) 
 
+
+![linkedin_wordcloud_banner](https://github.com/user-attachments/assets/9065675c-d103-4f19-be4f-19640c1e2cba)
 
 
