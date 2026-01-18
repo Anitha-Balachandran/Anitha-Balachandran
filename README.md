@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/058932e5-7223-4e02-a494-6faf54459e5d" alt="MasterHead" width="1200" height="250">
+<img src="https://github.com/user-attachments/assets/9065675c-d103-4f19-be4f-19640c1e2cba" alt="MasterHead" width="1200" height="250">
 
 <div align="center">
 
@@ -45,6 +45,8 @@
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) 
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/) 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-000000?style=for-the-badge&logo=ray&logoColor=white)
  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)	
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -64,7 +66,5 @@
     ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
       [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) 
 
-
-![linkedin_wordcloud_banner](https://github.com/user-attachments/assets/9065675c-d103-4f19-be4f-19640c1e2cba)
 
 
