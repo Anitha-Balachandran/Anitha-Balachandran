@@ -55,6 +55,7 @@
     [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic2syl_NLzAhXCnLMKHaspADoYABAAGgJxbg&ae=2&ohost=www.google.com&cid=CAESQOD2u8Z7ZhKNFpONz_9iR_mHA-reb1xJ7B61DJQ1bmnINBgADdXqt8cLfEyg4CBn0pKXcVMFR816Iq-lIhcFcDw&sig=AOD64_1-t_VuYeOPhR90gq-FuQ4NOtUB3w&q&adurl&ved=2ahUKEwiVwcOl_NLzAhUDZd8KHXujB7gQ0Qx6BAgCEAE&dct=1) 
    ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+    ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
     ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
     [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
