@@ -4,7 +4,7 @@
 <div align="center">
 
 # Hello there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anitha Balachandran 
-<p> An aspiring ML Engineer with a solid background in Software Engineering & Development.</p>
+<p> Data/AI Engineer | Software Engineering | Data Science | Applied AI</p>
 </div>
 
 
@@ -23,18 +23,19 @@
 💼 **Portfolio:** [Anitha's Portfolio](https://anitha-balachandran.github.io/portfolio/)
 
 
+## A little more about me...
 
-## A little more about me...  
-- I have over five years of experience in software development and data analysis. Currently, I am advancing my education with a Master's degree in Data Analytics, specializing in Data Science, at San Jose State University.
-
-- I've held key roles at Cognizant Technology Solutions, leading projects in advanced software development and Business Analytics that delivered significant results. This professional experience has fueled my drive to further explore and design innovative solutions in data and AI, aiming to tackle real-world challenges and expand my capabilities in these evolving fields.
-
-
+- I enjoy building and experimenting with data and AI-driven solutions, focusing on clear ideas and thoughtful implementation.
+- My interests span data engineering, machine learning, and applied AI, and I enjoy turning concepts into working systems.
+- This GitHub space is where I learn, experiment, and share projects as I continue to grow.
 
 ## 🌱 Always Learning
--I am passionate about continuous learning and personal growth, constantly evolving and learning every day. My GitHub repository reflects my journey of exploration and growth. For more insights, check it out!
 
--I'm actively building my portfolio, showcasing my progression from foundational data analytics to diverse machine learning projects. Stay tuned for more updates!
+- I believe in continuous learning and improving a little every day through hands-on experimentation.
+- My repositories reflect my journey across data analytics, machine learning, and AI, with an emphasis on practical exploration.
+- I’m actively expanding my portfolio—trying new tools, techniques, and ideas as I grow as a Data/AI Engineer.
+
+ Stay tuned for more updates!
 
 ### My Skills
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) 
